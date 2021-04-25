@@ -1,0 +1,14 @@
+C:\Users\turkm\Source\Repos\VeterinerAPI\VeterinerAPI\bin\Debug\netcoreapp2.1\VeterinerAPI.deps.json
+C:\Users\turkm\Source\Repos\VeterinerAPI\VeterinerAPI\bin\Debug\netcoreapp2.1\VeterinerAPI.runtimeconfig.json
+C:\Users\turkm\Source\Repos\VeterinerAPI\VeterinerAPI\bin\Debug\netcoreapp2.1\VeterinerAPI.runtimeconfig.dev.json
+C:\Users\turkm\Source\Repos\VeterinerAPI\VeterinerAPI\bin\Debug\netcoreapp2.1\VeterinerAPI.dll
+C:\Users\turkm\Source\Repos\VeterinerAPI\VeterinerAPI\obj\Debug\netcoreapp2.1\VeterinerAPI.csprojAssemblyReference.cache
+C:\Users\turkm\Source\Repos\VeterinerAPI\VeterinerAPI\obj\Debug\netcoreapp2.1\VeterinerAPI.csproj.CoreCompileInputs.cache
+C:\Users\turkm\Source\Repos\VeterinerAPI\VeterinerAPI\obj\Debug\netcoreapp2.1\VeterinerAPI.RazorAssemblyInfo.cache
+C:\Users\turkm\Source\Repos\VeterinerAPI\VeterinerAPI\obj\Debug\netcoreapp2.1\VeterinerAPI.RazorAssemblyInfo.cs
+C:\Users\turkm\Source\Repos\VeterinerAPI\VeterinerAPI\obj\Debug\netcoreapp2.1\VeterinerAPI.AssemblyInfoInputs.cache
+C:\Users\turkm\Source\Repos\VeterinerAPI\VeterinerAPI\obj\Debug\netcoreapp2.1\VeterinerAPI.AssemblyInfo.cs
+C:\Users\turkm\Source\Repos\VeterinerAPI\VeterinerAPI\obj\Debug\netcoreapp2.1\VeterinerAPI.RazorTargetAssemblyInfo.cache
+C:\Users\turkm\Source\Repos\VeterinerAPI\VeterinerAPI\bin\Debug\netcoreapp2.1\VeterinerAPI.pdb
+C:\Users\turkm\Source\Repos\VeterinerAPI\VeterinerAPI\obj\Debug\netcoreapp2.1\VeterinerAPI.dll
+C:\Users\turkm\Source\Repos\VeterinerAPI\VeterinerAPI\obj\Debug\netcoreapp2.1\VeterinerAPI.pdb
